@@ -30,7 +30,3 @@ Let's connect and build something great!
 
 * **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/avijit-bhadra-990a65253/)
 * **Email:** codewithavijit@gmail.com
-
-### **Tools**
-
-[![My ML/DL & OpenCV Toolkit](https://raw.githubusercontent.com/AvijitBhadra/my-readme-assets/main/ml-dl-opencv-tools.png)](https://github.com/AvijitBhadra/my-special-repo)
