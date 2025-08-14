@@ -28,5 +28,5 @@ Here you'll find a collection of my personal projects. Feel free to explore my r
 
 Let's connect and build something great!
 
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/avijit-bhadra-990a65253/)
+* **LinkedIn:** [Avijit Bhadra](https://www.linkedin.com/in/avijit-bhadra-990a65253/)
 * **Email:** codewithavijit@gmail.com
