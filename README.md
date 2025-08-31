@@ -18,7 +18,10 @@ Here are some of the key languages, frameworks, and tools I work with:
 * **Deep Learning:** **TensorFlow**, **PyTorch**
 * **Computer Vision:** **OpenCV** and other related tools for tasks like object detection with **YOLO**.
 ## **Competitive Programming**
+    Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/codewithavijit_2004?ext=activity)
+    Codeforces
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Avijit2004)](https://codeforces.com/profile/Avijit2004)
 
 ### **My Projects**
 
