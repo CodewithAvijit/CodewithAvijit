@@ -1,35 +1,48 @@
 ***
 
-### Hi there 👋, I'm Avijit Bhadra!
+### 😃 Hi there, I'm Avijit Bhadra!
 
 ---
 
-### **About Me**
+###  About Me
+I'm a passionate **AI and Machine Learning enthusiast** with strong foundations in **deep learning** and a growing interest in **LLMs, RAG pipelines, and LangChain**.  
+I love solving problems, building real-world projects, and constantly pushing myself to explore new ideas in AI and competitive programming.  
 
-I'm a passionate and versatile AI enthusiast with a strong foundation in machine learning and deep learning. I enjoy exploring different facets of AI and applying my skills to build innovative projects. I believe in continuous learning and am always eager to take on new challenges to expand my knowledge.
+---
 
-### **My Toolkit**
+### 🛠️ My Toolkit
+Here are some of the technologies, frameworks, and tools I work with:
 
-Here are some of the key languages, frameworks, and tools I work with:
+- **Languages:** Python  
+- **Development Tools:** Jupyter Notebook, GitHub  
+- **Machine Learning:** scikit-learn  
+- **Deep Learning:** TensorFlow, PyTorch  
+- **LLMs & RAG:** LangChain, Vector Databases, Retrieval-Augmented Generation  
+- **Computer Vision:** OpenCV, YOLO (object detection and related tasks)  
 
-* **Languages:** **Python**
-* **Development Tools:** **Jupyter Notebook**
-* **Machine Learning:** **scikit-learn**
-* **Deep Learning:** **TensorFlow**, **PyTorch**
-* **Computer Vision:** **OpenCV** and other related tools for tasks like object detection with **YOLO**.
-## **Competitive Programming**
-    Leetcode
+---
+
+### 🏆 Competitive Programming
+
+**LeetCode**  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/codewithavijit_2004?ext=activity)
-    Codeforces
+
+**Codeforces**  
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Avijit2004)](https://codeforces.com/profile/Avijit2004)
 
-### **My Projects**
+---
 
-Here you'll find a collection of my personal projects. Feel free to explore my repositories to see some of my work, from object detection models to various machine learning implementations.
+### 📂 My Projects
+Check out my repositories to explore projects like:  
+-  Object Detection with YOLO  
+-  Deep Learning & ML Models  
+-  Retrieval-Augmented Generation (RAG) pipelines with LangChain  
+-  Neural Networks & AI experiments  
 
 ---
 
-Let's connect and build something great!
+###  Let's Connect!
+- **LinkedIn:** [Avijit Bhadra](https://www.linkedin.com/in/avijit-bhadra-990a65253/)  
+- **Email:** codewithavijit@gmail.com  
 
-* **LinkedIn:** [Avijit Bhadra](https://www.linkedin.com/in/avijit-bhadra-990a65253/)
-* **Email:** codewithavijit@gmail.com
+---
