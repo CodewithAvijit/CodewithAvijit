@@ -30,6 +30,8 @@ Here are some of the technologies, frameworks, and tools I work with:
 **Codeforces**  
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Avijit2004)](https://codeforces.com/profile/Avijit2004)
 
+** GeekForGeeks ** 
+[![Avijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avijit2004&show_icons=true&theme=radical)](https://github.com/avijit20000004) 
 ---
 
 ### 📂 My Projects
