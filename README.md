@@ -27,9 +27,6 @@ Here are some of the technologies, frameworks, and tools I work with:
 **LeetCode**  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/codewithavijit_2004?ext=activity)
 
-**Codeforces**  
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Avijit2004)](https://codeforces.com/profile/Avijit2004)
-
 ---
 
 ### 📂 My Projects
