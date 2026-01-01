@@ -56,16 +56,6 @@ A continuous effort to sharpen my algorithm and data structure skills.
 
 ---
 
-## 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodewithAvijit&show_icons=true&theme=vue&hide_title=true&hide_border=true" alt="Avijit's GitHub Stats" style="max-width: 100%; height: auto;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithAvijit&layout=compact&theme=vue&hide_title=true&hide_border=true" alt="Avijit's Top Languages" style="max-width: 100%; height: auto;"/>
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 | Platform | Contact Details |
