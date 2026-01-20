@@ -63,8 +63,8 @@ I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to bridg
 ## 📊 Coding Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithavijit_2004&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithavijit_2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodewithAvijit/&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithAvijit/&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 <br/>
