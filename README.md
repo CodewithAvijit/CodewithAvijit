@@ -64,7 +64,7 @@ I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to bridg
 
 <div align="center">  
   <a href="https://github.com/CodewithAvijit">
-    <img src="[![Avijits's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodewithAvijit)](https://github.com/CodewithAvijit/github-readme-stats)" alt="Avijit's GitHub Stats" />
+   <img src="https://streak-stats.demolab.com?user=CodewithAvijit&theme=dark" />
   </a>
 </div>
 
