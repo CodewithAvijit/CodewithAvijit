@@ -62,16 +62,15 @@ I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to bridg
 
 ## 📊 Github Statistics
 
-<div align="center">  
-  <a href="https://github.com/CodewithAvijit">
-   <img src="https://streak-stats.demolab.com?user=CodewithAvijit&theme=dark" />
-   </a>
-   <a href="https://github.com/CodewithAvijit">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodewithAvijit&theme=github_dark" />
-   </a>
-  <a href="https://github.com/CodewithAvijit">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodewithAvijit&theme=github_dark" />
-   </a>
+<div align="center">
+
+  <img width="48%" src="https://streak-stats.demolab.com?user=CodewithAvijit&theme=dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodewithAvijit&theme=github_dark" />
+
+  <br/><br/>
+
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodewithAvijit&theme=github_dark" />
+
 </div>
 
 ---
