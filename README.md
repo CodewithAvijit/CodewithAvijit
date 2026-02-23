@@ -63,13 +63,12 @@ I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to bridg
 ## 📊 Coding Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodewithAvijit&show_icons=true&theme=dark&include_all_commits=true" alt="Avijit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodewithAvijit&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Avijit's GitHub Stats" />
   
-  <br/> <br/>
+  <br/><br/>
 
   <img src="https://leetcard.jacoblin.cool/codewithavijit_2004?ext=activity&theme=dark" alt="LeetCode Stats" />
 </div>
-
 ---
 
 ## 📂 Featured Domains
