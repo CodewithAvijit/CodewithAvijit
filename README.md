@@ -65,7 +65,8 @@ I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to bridg
 <div align="center">  
   <a href="https://github.com/CodewithAvijit">
    <img src="https://streak-stats.demolab.com?user=CodewithAvijit&theme=dark" />
-  </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodewithAvijit&theme=github_dark/>  
+   </a>
 </div>
 
 ---
