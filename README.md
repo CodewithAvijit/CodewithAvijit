@@ -70,7 +70,7 @@ I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to bridg
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodewithAvijit&theme=github_dark" />
    </a>
   <a href="https://github.com/CodewithAvijit">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodewithAvijit&theme=github_dark" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodewithAvijit&theme=github_dark" />
    </a>
 </div>
 
