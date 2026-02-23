@@ -63,12 +63,17 @@ I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to bridg
 ## 📊 Coding Statistics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodewithAvijit&show_icons=true&theme=dark&include_all_commits=true" alt="Avijit's GitHub Stats" />
+  
+  <br/> <br/>
+
   <img src="https://leetcard.jacoblin.cool/codewithavijit_2004?ext=activity&theme=dark" alt="LeetCode Stats" />
-  </div>
+</div>
 
 ---
 
 ## 📂 Featured Domains
+
 | **AI & LLMs** | **Backend Engineering** |
 | :--- | :--- |
 | Designing RAG pipelines, Fine-tuning LLMs, Computer Vision (Object Detection). | Building REST APIs with Spring Boot, Microservices, Database Management. |
